@@ -1,0 +1,54 @@
+﻿Zone Type,Condition,Age Group,Time,Urea (Kg/Ha),T.S.P (Kg/Ha),M.O.P (Kg/Ha),Zinc Sulphate (Kg/Ha)
+Intermediate and Dry,Irrigated,For 3 Month,Basic,0,55,0,5
+Intermediate and Dry,Irrigated,For 3 Month,2 Weeks,50,0,0,0
+Intermediate and Dry,Irrigated,For 3 Month,4 Weeks,75,0,25,0
+Intermediate and Dry,Irrigated,For 3 Month,6 Weeks,65,0,35,0
+Intermediate and Dry,Irrigated,For 3 Month,7 Weeks,35,0,0,0
+Intermediate and Dry,Irrigated,For 3 1/2 Month,Basic,0,55,0,5
+Intermediate and Dry,Irrigated,For 3 1/2 Month,2 Weeks,50,0,0,0
+Intermediate and Dry,Irrigated,For 3 1/2 Month,4 Weeks,75,0,25,0
+Intermediate and Dry,Irrigated,For 3 1/2 Month,6 Weeks,65,0,35,0
+Intermediate and Dry,Irrigated,For 3 1/2 Month,8 Weeks,35,0,0,0
+Intermediate and Dry,Irrigated,For 4 Month,Basic,0,55,0,5
+Intermediate and Dry,Irrigated,For 4 Month,2 Weeks,50,0,0,0
+Intermediate and Dry,Irrigated,For 4 Month,4 Weeks,75,0,25,0
+Intermediate and Dry,Irrigated,For 4 Month,7 Weeks,65,0,35,0
+Intermediate and Dry,Irrigated,For 4 Month,9 Weeks,35,0,0,0
+Intermediate and Dry,Rainfed,For 3 Month,Basic,0,35,0,5
+Intermediate and Dry,Rainfed,For 3 Month,2 Weeks,30,0,0,0
+Intermediate and Dry,Rainfed,For 3 Month,4 Weeks,65,0,25,0
+Intermediate and Dry,Rainfed,For 3 Month,6 Weeks,50,0,25,0
+Intermediate and Dry,Rainfed,For 3 1/2 Month,Basic,0,35,0,5
+Intermediate and Dry,Rainfed,For 3 1/2 Month,2 Weeks,30,0,0,0
+Intermediate and Dry,Rainfed,For 3 1/2 Month,4 Weeks,30,0,25,0
+Intermediate and Dry,Rainfed,For 3 1/2 Month,6 Weeks,65,0,25,0
+Wet,Irrigated,For 3 Month,Basic,0,35,0,5
+Wet,Irrigated,For 3 Month,2 Weeks,20,0,0,0
+Wet,Irrigated,For 3 Month,4 Weeks,55,0,25,0
+Wet,Irrigated,For 3 Month,6 Weeks,45,0,25,0
+Wet,Irrigated,For 3 Month,7 Weeks,20,0,0,0
+Wet,Irrigated,For 3 1/2 Month,Basic,0,35,0,5
+Wet,Irrigated,For 3 1/2 Month,2 Weeks,20,0,0,0
+Wet,Irrigated,For 3 1/2 Month,4 Weeks,55,0,25,0
+Wet,Irrigated,For 3 1/2 Month,6 Weeks,45,0,25,0
+Wet,Irrigated,For 3 1/2 Month,8 Weeks,20,0,0,0
+Wet,Irrigated,For 4 Month,Basic,0,35,0,5
+Wet,Irrigated,For 4 Month,2 Weeks,20,0,0,0
+Wet,Irrigated,For 4 Month,4 Weeks,55,0,25,0
+Wet,Irrigated,For 4 Month,7 Weeks,45,0,25,0
+Wet,Irrigated,For 4 Month,9 Weeks,20,0,0,0
+Wet,Rainfed,For 3 Month,Basic,0,55,0,5
+Wet,Rainfed,For 3 Month,2 Weeks,25,0,0,0
+Wet,Rainfed,For 3 Month,4 Weeks,30,0,35,0
+Wet,Rainfed,For 3 Month,6 Weeks,25,0,45,0
+Wet,Rainfed,For 3 Month,7 Weeks,20,0,30,0
+Wet,Rainfed,For 3 1/2 Month,Basic,0,55,0,5
+Wet,Rainfed,For 3 1/2 Month,2 Weeks,25,0,0,0
+Wet,Rainfed,For 3 1/2 Month,4 Weeks,30,0,35,0
+Wet,Rainfed,For 3 1/2 Month,6 Weeks,25,0,45,0
+Wet,Rainfed,For 3 1/2 Month,8 Weeks,20,0,30,0
+Wet,Rainfed,For 4 Month,Basic,0,55,0,5
+Wet,Rainfed,For 4 Month,2 Weeks,25,0,0,0
+Wet,Rainfed,For 4 Month,4 Weeks,30,0,35,0
+Wet,Rainfed,For 4 Month,7 Weeks,25,0,45,0
+Wet,Rainfed,For 4 Month,9 Weeks,20,0,30,0
