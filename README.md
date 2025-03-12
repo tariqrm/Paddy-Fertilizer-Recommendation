@@ -69,7 +69,15 @@ The graphs below illustrate how yield is influenced by variations in fertilizer 
 
 The Cuckoo Search Optimization algorithm was crucial for determining the appropriate doses of fertilizer, as the yield does not linearly correlate with the amount of each fertilizer dose. By leveraging CSO, we efficiently navigated through complex, non-linear relationships to optimize fertilizer applications, ensuring maximum yield without waste or environmental impact. 
 
+**Figure 5**  
+![Picture5](images/Picture5.png)
+
+
 *Note: Being a probabilistic algorithm, CSO may yield slightly different outcomes on each run due to randomization. Multiple runs were required to achieve stable recommendations (convergence).*
+
+**Figure 6**  
+![Picture6](images/Picture6.png)
+
 
 ## Web Application Development using Streamlit
 
@@ -78,6 +86,14 @@ An interactive web application was developed using Streamlit to visualize soil h
 ## IDW of Soil Nutrient Profile and Fertilizer Map
 
 Spatial interpolation using Inverse Distance Weighting (IDW) was applied to generate nutrient distribution maps, aiding in targeted fertilization strategies.
+
+**Figure 11: Existing soil nutrient profile**  
+![Picture11](images/Picture11.png)
+
+
+**Figure 12: Fertilizer application map**  
+![Picture12](images/Picture12.png)
+
 
 
 ## Path Planning
