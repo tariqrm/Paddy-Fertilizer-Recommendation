@@ -33,6 +33,16 @@ This project focused on optimizing agricultural productivity through data-driven
 - **Model Architectures:** Various neural network architectures were tested to balance model complexity and performance.
 - **Error Analysis:** The number of layers and perceptrons were plotted against the error by training various configurations, reinforcing the results of GridSearchCV and ensuring a balanced contribution from all input features.
 
+**Figure 2: Validation Error vs Total neurons in model by training multiple neural network configurations**  
+![Picture2](images/Picture2.png)
+
+**Figure 3: Validation Error vs No of layers in model by training multiple neural network configurations**  
+![Picture3](images/Picture3.png)
+
+**Figure 4: Weights of input features**  
+![Picture4](images/Picture4.png)
+
+
 ## Yield Prediction Model Performance Summary
 
 ### Model Accuracy & Generalization
