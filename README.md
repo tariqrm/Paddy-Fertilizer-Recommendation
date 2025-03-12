@@ -93,6 +93,20 @@ The Cuckoo Search Optimization algorithm was crucial for determining the appropr
 
 An interactive web application was developed using Streamlit to visualize soil health and display optimal fertilizer plans based on the processed data and model predictions.
 
+**Figure 7: Use case diagram**  
+![Picture7](images/Picture7.png)
+
+**Figure 8: Class diagram**  
+![Picture8](images/Picture8.png)
+
+**Figure 9: Sequence diagram of user viewing data**  
+![Picture9](images/Picture9.png)
+
+**Figure 10: Sequence diagram of admin performing CRUD operations**  
+![Picture10](images/Picture10.png)
+
+
+
 ## IDW of Soil Nutrient Profile and Fertilizer Map
 
 Spatial interpolation using Inverse Distance Weighting (IDW) was applied to generate nutrient distribution maps, aiding in targeted fertilization strategies.
