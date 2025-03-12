@@ -8,7 +8,9 @@ This project focused on optimizing agricultural productivity through data-driven
 
 ## Hardware
 
-![Uploading image.png…]()
+**Figure 1: Schematic of soil sensor node**  
+![Picture1](images/Picture1.png)
+
 
 
 ## Data Cleaning & Preprocessing
@@ -81,5 +83,10 @@ Spatial interpolation using Inverse Distance Weighting (IDW) was applied to gene
 ## Path Planning
 
 - By using **BFS (Breadth-First Search)**, the algorithm thoroughly checks all possible paths to ensure that drones can travel to many locations from a starting point and return safely without running out of battery. It plans routes that cleverly avoid any blockages, ensuring efficient navigation without interruptions. Moreover, simple calculations determine the shortest and most practical routes for the drones.
-- This approach ensures that drones always take the best path available, saving both time and battery power. The path of a land using 2 drones with obstacles and limited drone distance per charge is illustrated in **Figure 5:17** below.
+- This approach ensures that drones always take the best path available, saving both time and battery power. The path of a land using 2 drones with obstacles and limited drone distance per charge is illustrated below.
 
+**Figure 13**  
+![Picture13](images/Picture13.png)
+
+**Figure 14**  
+![Picture14](images/Picture14.png)
